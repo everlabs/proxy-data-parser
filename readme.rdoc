@@ -2,11 +2,15 @@
 
 Be sure you have installed gems:
 
-gem install sinatra
-gem install sinatra-cross_origin
-gem uninstall open-uri
-gem install nokogiri
-gem install json
+* gem install sinatra
+
+* gem install sinatra-cross_origin
+
+* gem uninstall open-uri
+
+* gem install nokogiri
+
+* gem install json
 
 == Google play parser
 
